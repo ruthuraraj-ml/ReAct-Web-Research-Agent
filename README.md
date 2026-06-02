@@ -31,7 +31,7 @@
 <!-- VIDEO PLACEHOLDER: Replace with your actual demo video link -->
 <!-- Options: Upload to YouTube, Loom, or GitHub Releases, then paste the link below -->
 
-[![Watch Demo Video](assets/screenshots/video_thumbnail.png)](https://your-video-link-here.com)
+[![Watch Demo Video](assets/screenshots/video_thumbnail.png)](https://youtu.be/c6Am2fBz5Mw)
 
 > *Click the thumbnail above to watch a full walkthrough of the research workflow.*
 
